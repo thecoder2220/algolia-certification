@@ -1,0 +1,25 @@
+{
+  "name": "instantsearchjs-template",
+  "version": "1.0.0",
+  "description": "Example template for Algolia InstantSearch.js",
+  "keywords": [
+    "algolia",
+    "search",
+    "template",
+    "example",
+    "fiddle",
+    "InstantSearch",
+    "InstantSearch.js",
+    "instantsearch"
+  ],
+  "private": true,
+  "devDependencies": {
+    "parcel-bundler": "1.9.7"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "algoliasearch": "^3.30.0"
+  }
+}
